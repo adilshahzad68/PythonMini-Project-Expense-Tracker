@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2026-01-05",
+        "category": "Travel",
+        "description": "travel to sweden",
+        "amount": 200.0
+    },
+    {
+        "date": "2025-03-04",
+        "category": "Food",
+        "description": "Pizza",
+        "amount": 100.0
+    }
+]
